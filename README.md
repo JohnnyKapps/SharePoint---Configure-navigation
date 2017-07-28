@@ -5,10 +5,10 @@ Este script cria menus de navegação superior e quick launch do SharePoint base
 *quicklaunch.xml - Dados do quick launch
 
 ## COMO UTILIZAR
-*Configure as URLs no interior do script;
-*Configure o email do usuário no interior do script;
-*Ajuste os valores dos arquivos xml;
-*Execute o script powershell;
+* Configure as URLs no interior do script;
+* Configure o email do usuário no interior do script;
+* Ajuste os valores dos arquivos xml;
+* Execute o script powershell;
 
 ## CONSIDERAÇÕES
 
