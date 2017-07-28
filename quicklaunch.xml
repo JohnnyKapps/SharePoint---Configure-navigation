@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuickLaunch>
+	<WebA>
+		<Header Address="/" Title="Home" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina A" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina B" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina C" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina D" />
+	</WebA>
+	<WebB>
+		<Header Address="/" Title="Menu" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina A" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina B" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina C" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina D" />
+	</WebB>
+	<WeC>
+		<Header Address="/" Title="Menu" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina A" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina B" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina C" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina D" />
+	</WebC>
+	<WebD>
+		<Header Address="/" Title="Menu" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina A" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina B" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina C" />
+		<Header Address="/Pages/Pagina1.aspx" Title="Pagina D" />
+	</WebD>
+</QuickLaunch>

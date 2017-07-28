@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Navigation>
+	<Header Address="/" Title="Home">
+		<Field Address="/Pages/PageUrl1.aspx" Title="Menu A" />
+		<Field Address="/Pages/PageUrl2.aspx" Title="Menu B" />
+		<Field Address="/Pages/PageUrl3.aspx" Title="Menu C" />
+		<Field Address="/Pages/PageUrl4.aspx" Title="Menu D" />
+	</Header>
+	<Header Address="/" Title="Home">
+		<Field Address="/Pages/PageUrl1.aspx" Title="Menu A" />
+		<Field Address="/Pages/PageUrl2.aspx" Title="Menu B" />
+		<Field Address="/Pages/PageUrl3.aspx" Title="Menu C" />
+		<Field Address="/Pages/PageUrl4.aspx" Title="Menu D" />
+	</Header>
+	<Header Address="/" Title="Home">
+		<Field Address="/Pages/PageUrl1.aspx" Title="Menu A" />
+		<Field Address="/Pages/PageUrl2.aspx" Title="Menu B" />
+		<Field Address="/Pages/PageUrl3.aspx" Title="Menu C" />
+		<Field Address="/Pages/PageUrl4.aspx" Title="Menu D" />
+	</Header>
+	<Header Address="/" Title="Home">
+		<Field Address="/Pages/PageUrl1.aspx" Title="Menu A" />
+		<Field Address="/Pages/PageUrl2.aspx" Title="Menu B" />
+		<Field Address="/Pages/PageUrl3.aspx" Title="Menu C" />
+		<Field Address="/Pages/PageUrl4.aspx" Title="Menu D" />
+	</Header>
+</Navigation>
